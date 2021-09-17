@@ -44,11 +44,6 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - image_alt: lorem-ipsum
-    caption: bruh
-    width: regular
-    type: image_section
-    image: images/group.jpeg
 seo:
   title: Subtle
   description: This is the sample project description
